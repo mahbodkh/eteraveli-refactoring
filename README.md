@@ -1,5 +1,5 @@
 # Refactoring Java
-he code creates an information slip about movie rentals.
+The code creates an information slip about movie rentals.
 Rewrite and improve the code after your own liking.
 
 Think: you are responsible for the solution, this is a solution you will have to put your name on.
@@ -15,6 +15,11 @@ Note: the Git history must be included.
 ## To run the test:
 
 ```
-javac src/*.java
-java -cp src main.java.com.etraveli.app.Main
+mvn test
+```
+
+## To run the application:
+
+```
+mvn exec:java
 ```
