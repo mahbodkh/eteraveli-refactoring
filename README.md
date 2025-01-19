@@ -16,5 +16,5 @@ Note: the Git history must be included.
 
 ```
 javac src/*.java
-java -cp src Main
+java -cp src main.java.com.etraveli.app.Main
 ```

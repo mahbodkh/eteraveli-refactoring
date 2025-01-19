@@ -1,3 +1,5 @@
+package com.etraveli.app.model;
+
 public class Movie {
     private String title;
     private String code;

@@ -1,3 +1,5 @@
+package com.etraveli.app.model;
+
 import java.util.List;
 
 public class Customer {
